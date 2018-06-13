@@ -1,7 +1,7 @@
 <?php
-$username = 'id1327671_lgz_tecdaily';
-$password = 'balabhumi';
-$database = 'id1327671_tecdaily';
+$username = 'lgz_tecdaily';
+$password = 'password';
+$database = 'tecdaily';
 $server = 'localhost';
 
 $con = mysqli_connect($server,$username,$password,$database);
